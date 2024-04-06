@@ -1,0 +1,17 @@
+{
+    "name": "app/src",
+    "description": "Heranca e Interface com php",
+    "type": "no",
+    "autoload": {
+        "psr-4": {
+            "App\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoaoEnrique",
+            "email": "jebsantosalves@gmail.com"
+        }
+    ],
+    "require": {}
+}
