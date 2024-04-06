@@ -1,0 +1,17 @@
+{
+    "name": "app/src",
+    "description": "Classe Abstrata",
+    "type": "no",
+    "license": "no",
+    "autoload": {
+        "psr-4": {
+            "App\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Enrique Alves"
+        }
+    ],
+    "require": {}
+}
